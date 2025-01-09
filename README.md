@@ -12,4 +12,3 @@ This repository includes:
   - Language modeling
   - And more!
 
-Whether you're a beginner or looking to sharpen your NLP skills, this repository is the perfect place to dive into the world of NLP.
